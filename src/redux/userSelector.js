@@ -10,4 +10,4 @@ export const getFilteredUser = state => {
         return "";
     }
     return filterValue;
-} 
+};

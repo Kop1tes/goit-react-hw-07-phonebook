@@ -26,11 +26,11 @@ export const App = () => {
           <div
             style={{
               display: 'flex',
-              justifyContent: "center",
-              alignItems: "center",
+              justifyContent: 'center',
+              alignItems: 'center',
             }}
           >
-            <InfinitySpin width="400" color="blue" />
+            <InfinitySpin width="400" color="#4c2ef7" />
           </div>
         )}
         <ContactList />
